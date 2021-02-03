@@ -4,7 +4,7 @@ const Body = Matter.Body;
 const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
-var engine, world, 
+var engine, world; 
 
 function preload() {
     
